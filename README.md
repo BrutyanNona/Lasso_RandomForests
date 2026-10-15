@@ -85,8 +85,7 @@ Result: **105 candidate predictors**.
 ├── README.md
 ├── NB_SeminarPaper.pdf        # Full seminar paper
 ├── NB_Script.R                # Complete R analysis script
-├── UCI_Credit_Card.csv        # Dataset
-└── figures/                   # Plots produced by the script
+└── UCI_Credit_Card.csv        # Dataset                 
 ```
 
 ## How to Run
